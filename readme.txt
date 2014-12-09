@@ -1,5 +1,6 @@
 === Custom Sender for Email Before Download ===
 Contributors: aguseo
+Plugin URI: http://blog.pc-magus.hu/custom-sender-for-email-before-download/
 Tags: download, email, sender
 Requires at least: 4.0
 Tested up to: 4.0.1
@@ -15,7 +16,7 @@ The Custom Sender plugin is an addition to the Email Before Download (version 3.
 In order for this plugin to work you will need the Email Before Download (version 3.3) plugin and it's dependencies. Without that it will not work, and doesn't even do anything.
 
 == Installation ==
-1. Download from http://wordpress.org/extend/plugins/custom-sender-for-email-before-download/
+1. Download from https://wordpress.org/plugins/custom-sender-for-email-before-download/
 2. Upload the entire custom-sender-email-before-download folder to the /wp-content/plugins/ directory.
 3. Activate the plugin through the "Plugins" menu in WordPress.
 4. Locate the "Custom Sender for EB" menu item in your WordPress Admin panel under "Settings" to configure.
